@@ -21,6 +21,7 @@ Developed By : VISMAYA.S
 Reg No : 212221230125
 
 # CLIENT PROGRAM :
+```
 import socket
 s=socket.socket()
 s.bind(('localhost',8080))
@@ -37,6 +38,7 @@ while True:
    	c.close()
    	break
 
+
 # SERVER PROGRAM :
 import socket
 s=socket.socket()
@@ -44,7 +46,7 @@ s.connect(('localhost',8080))
 while True:
 	print(s.recv(1024).decode())
 	s.send("Recieved".encode())
-
+```
 # OUTPUT:
 
 # CLIENT OUTPUT:
