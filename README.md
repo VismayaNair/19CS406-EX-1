@@ -51,10 +51,10 @@ while True:
 # OUTPUT:
 
 # CLIENT OUTPUT:
-![output](client.png)
+![client](https://github.com/VismayaNair/19CS406-EX-1/assets/93427210/413a48df-53b8-477b-9514-4b72d8c51dde)
 
 # SERVER OUTPUT:
-![output](server.png)
+![server](https://github.com/VismayaNair/19CS406-EX-1/assets/93427210/9affa120-91f5-46a0-b1f9-f7f0df698afb)
 
 
 
